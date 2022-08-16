@@ -14,6 +14,11 @@
 Oculus GO의 낮은 성능에 맞춰 복잡한 요소 없이 제작되었음.  
 
 
-[![음주운전 시뮬레이터(음주효과 포함) 영상](http://img.youtubecom/vi/wy1myy0ZDSo/0.jpg)](https://www.youtube.com/watch?v=wy1myy0ZDSo)  
+### 음주운전 시뮬레이터(음주효과 포함) 영상 
+[![음주운전 시뮬레이터(음주효과 포함) 영상](https://img.youtube.com/vi/wy1myy0ZDSo/hqdefault.jpg)](https://www.youtube.com/watch?v=wy1myy0ZDSo)  
+- 사진 클릭 시 영상 시청 가능
 
-[![음주운전 시뮬레이터(음주효과 제거) 영상](http://img.youtubecom/vi/um8gLjikdlo/0.jpg)](https://www.youtube.com/watch?v=um8gLjikdlo)  
+
+### 음주운전 시뮬레이터(음주효과 제거) 영상
+[![음주운전 시뮬레이터(음주효과 제거) 영상](https://img.youtube.com/vi/um8gLjikdlo/hqdefault.jpg)](https://www.youtube.com/watch?v=um8gLjikdlo) 
+- 사진 클릭 시 영상 시청 가능
